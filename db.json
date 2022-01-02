@@ -1,7 +1,6 @@
 {
-  "user":{
-    "id": 261,
-    "firstName": "onkar",
-    "lastName": "kulkarni"
-  }
+	"user": {
+		"id": 261,
+		"firstName": "onkar"
+	}
 }
