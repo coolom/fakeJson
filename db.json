@@ -1,7 +1,11 @@
 {
- "user":{
-  "id": abvc1234",
-  "firstName": "onkar",
-  "lastName" : "kulkarni"
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
